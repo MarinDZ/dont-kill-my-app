@@ -15,7 +15,7 @@ Background services are being killed (including accessibility services, which th
 
 * Turn off battery optimizations.
 
-* Give the service a persistent notification to remain in the foreground.
+* Give the service a persistent notification to remain LP ijhh okin the foreground.
 
 All four of those need to be done before the app would function.
 
